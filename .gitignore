@@ -1,0 +1,6 @@
+secrets.json
+build/
+dist/
+__pycache__/
+*.exe
+*.spec
